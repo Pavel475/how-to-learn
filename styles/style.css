@@ -325,11 +325,6 @@
   flex-basis: 711px;
 }
 
-.logo {
-  width: 228px;
-  height: 32px;
-}
-
 .logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
 }
