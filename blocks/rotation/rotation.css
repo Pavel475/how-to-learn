@@ -19,3 +19,8 @@
                 transform: rotate(360deg);
     }
 }
+
+.rotation {
+    -webkit-animation: rotation 20s infinite linear;
+    animation: rotation 20s infinite linear;
+}
