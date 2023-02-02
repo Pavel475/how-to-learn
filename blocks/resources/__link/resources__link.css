@@ -3,6 +3,7 @@
     -webkit-transition: opacity 1s;
     -o-transition: opacity 1s;
     transition: opacity 1s;
+    text-decoration: none;
 }
 
 .resources__link:hover {
